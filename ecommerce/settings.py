@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4ml!a9yyd%@8j-@a67k_-xg87y2bb1pj6d#3$4+y^#q5*r=-e(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['kart2home.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['kart2home.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
