@@ -22,7 +22,6 @@
             <a
               style="float: right; margin: 5px"
               class="btn btn-success"
-              id="checkout"
               href="{% url 'checkout' %}"
               >Checkout</a
             >
@@ -73,11 +72,5 @@
     </div>
   </div>
 </div>
-<script type="text/javascript">
-  var order_no = "{{order.get_cart_items}}";
-  if (order_no != 0) {
-    //Show payment if logged in user wants to buy an item that does not require shipping
-    document.getElementById("checkout").classList.remove("hidden");
-  }
-</script>
+
 {% endblock content %}
