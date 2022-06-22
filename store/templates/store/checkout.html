@@ -89,6 +89,8 @@
       <script>
       function myFunction() {
         alert("Payment done return to home page");
+        cart = {};
+        document.cookie = "cart=" + JSON.stringify(cart) + ";domain=;path=/";
       }
       </script>
       <!-- chage here -->
