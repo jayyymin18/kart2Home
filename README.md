@@ -1,5 +1,17 @@
+<p align="center">
+<img src="Logo.png" width=20% height=20%>
+    <br />
+  <a target="blank" href="https://kart2home.herokuapp.com/"><strong>Explore the app here »</strong></a>
+</p>
+
 # kart2Home
- An ecommerce website made with HTML, CSS, JavaScript, Python, Django. End to end ecommerce website built from scratch where users can add items to the cart, delete items and update the quantity of item.
+End to end ecommerce website built from scratch where users can add items to the cart, delete items and update the quantity of item.
+
+
+# Built With
+* Frontend - HTML, CSS
+* Backend - JavaScript, Python Django
+* Deployment Platform - Heroku
  
 # Database UML
 <p><a href="https://kart2home.herokuapp.com" target="_blank"><img align="center" alt="kart2Home" title="kart2Home" width="400px"src="database.png" /></a></p>
@@ -11,3 +23,8 @@ Cart Page
 <p><a href="https://kart2home.herokuapp.com" target="_blank"><img align="center" alt="kart2Home" title="kart2Home" width="400px"src="2.png" /></a></p>
 Checkout Page
 <p><a href="https://kart2home.herokuapp.com" target="_blank"><img align="center" alt="kart2Home" title="kart2Home" width="400px"src="3.png" /></a></p>
+
+# Future Goals
+* To integrate the payment gateway like razorpay
+* To display and track the order details 
+* To improve the UI/UX of the website
