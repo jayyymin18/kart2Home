@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Logo.png" width=10% height=10%>
+<img href="https://kart2home.herokuapp.com" src="Logo.png" width=10% height=10%>
     <br />
   <a target="blank" href="https://kart2home.herokuapp.com/"><strong>Explore the app here »</strong></a>
 </p>
