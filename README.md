@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Logo.png" width=20% height=20%>
+<img src="Logo.png" width=10% height=10%>
     <br />
   <a target="blank" href="https://kart2home.herokuapp.com/"><strong>Explore the app here »</strong></a>
 </p>
@@ -28,3 +28,7 @@ Checkout Page
 * To integrate the payment gateway like razorpay
 * To display and track the order details 
 * To improve the UI/UX of the website
+
+# License
+
+The project is acquired under the [MIT License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer).
